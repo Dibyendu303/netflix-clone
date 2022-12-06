@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Project description
+Created a Netflix clone using ReactJS. Movies are fetched from TMDB API using Axios. Used FIREBASE Authentication for login. Integrated fully functional STRIPE Payment system so that users can purchase plans.
+Technologies used - ReactJS, React Router, Axios, Firebase, Stripe
+Website link: https://netflix-clone-dib.web.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
